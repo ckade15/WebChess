@@ -1,0 +1,11 @@
+#board{
+    width: 765px;
+    display: grid;
+    grid-template-columns: repeat(8, 1fr);
+    grid-template-rows: repeat(8, 1fr);
+    grid-gap: 0px;
+    border: border-box;
+    justify-items: stretch;
+    margin: 0 auto;
+
+}
