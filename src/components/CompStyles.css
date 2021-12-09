@@ -9,3 +9,8 @@
     margin: 0 auto;
 
 }
+
+.piece{
+    width: 70px;
+    height: 70px;
+}
